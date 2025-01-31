@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/turkey bacon wax trial.png"
-full: "/img/turkey bacon wax trial.png"
+thumbnail: "/img/turkeybaconwaxtrial.png"
+full: "/img/turkeybaconwaxtrial.png"
 ---
